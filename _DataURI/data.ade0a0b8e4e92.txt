@@ -1,0 +1,1 @@
+chrome-extension://gegfpbhjnhegdnjdkghhnneaocdbbhjp/firefox/browser-polyfill.min.js
